@@ -1,0 +1,56 @@
+.left {
+  float: left;
+  margin: auto;
+	text-align: center;
+	width: 250px;
+  }
+.right {
+  float: left;
+  text-align: center;
+	width: 250px;
+  }
+p {
+  height: 210px;
+  margin: auto;
+  padding-top: 40px;
+  }
+.bold {font-weight: bold;
+}
+.l1, .l3, .l5, .r2, .r4{
+  font-family: 'Indie Flower', cursive;
+	font-size: 20px;
+  }
+.l2, .l4, .r1, .r3, .r5{
+  font-family: 'Kanit', sans-serif;
+	font-size: 20px;
+	}
+.l1 {
+  background: #3366ff;
+}
+.l2 {
+  background: #ff80df;
+}
+.l3 {
+  background: #cc33ff;
+}
+.l4 {
+  background: #ffffb3;
+}
+.l5 {
+  background: #ffcc80;
+}
+.r1 {
+  background: #b3e6ff;
+}
+.r2 {
+  background: #ff4da6;
+}
+.r3 {
+  background: #bf80ff;
+}
+.r4 {
+  background: #ffff00;
+}
+.r5 {
+  background: #ff944d;
+}
