@@ -1,7 +1,6 @@
 .left {
   float: left;
-  margin: auto;
-	text-align: center;
+  text-align: center;
 	width: 250px;
   }
 .right {
@@ -9,7 +8,8 @@
   text-align: center;
 	width: 250px;
   }
-.bold {font-weight: bold;
+.bold {
+  font-weight: bold;
 }
 p {
   margin: 0px;
@@ -27,47 +27,47 @@ p {
   height: 202px;
   padding-top: 48px;
   }
-.l2 {
+.l2{
   background: #ff80df;
   height: 180px;
   padding-top: 70px;
  }
-.l3 {
+.l3{
   background: #cc33ff;
   height: 202px;
   padding-top: 48px;
 }
-.l4 {
+.l4{
   background: #ffffb3;
   height: 190px;
   padding-top: 60px;
 }
-.l5 {
+.l5{
   background: #ffcc80;
   height: 170px;
   padding-top: 80px;
 }
-.r1 {
+.r1{
   background: #b3e6ff;
   height: 202px;
   padding-top: 48px;
 }
-.r2 {
+.r2{
   background: #ff4da6;
   height: 202px;
   padding-top: 48px;
 }
-.r3 {
+.r3{
   background: #bf80ff;
   height: 202px;
   padding-top: 48px;
 }
-.r4 {
+.r4{
   background: #ffff00;
   height: 202px;
   padding-top: 48px;
 }
-.r5 {
+.r5{
   background: #ff944d;
   height: 170px;
   padding-top: 80px;
